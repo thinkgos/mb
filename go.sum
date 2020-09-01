@@ -1,5 +1,7 @@
 github.com/goburrow/serial v0.1.0/go.mod h1:sAiqG0nRVswsm1C97xsttiYCzSLBmUZ/VSlVLZJ8haA=
-github.com/thinkgos/gomodbus/v2 v2.2.0 h1:qlMDl9dm2jR/sEVbmUaxk4FLZdG+3L9236HwiA/Qv9A=
-github.com/thinkgos/gomodbus/v2 v2.2.0/go.mod h1:YynqZtDx2kFRhA+Ajy9qtmWOUIs5BOi3EaX6WQwH/jo=
+github.com/thinkgos/gomodbus/v2 v2.2.1 h1:eFTeFvkN8z7DuKUnExPzJs3eNE+O0kgoRRDD7cnzmSA=
+github.com/thinkgos/gomodbus/v2 v2.2.1/go.mod h1:YynqZtDx2kFRhA+Ajy9qtmWOUIs5BOi3EaX6WQwH/jo=
 github.com/thinkgos/timing/v4 v4.1.0 h1:A91sdbxRa2VGgqEnbi7BW3Atqnk9iG3b9AAzTyjEOJE=
 github.com/thinkgos/timing/v4 v4.1.0/go.mod h1:UJHH/waV/JvqmHbK8phLp9w2EUgRVN6oDAlr8k+WAZY=
+github.com/thinkgos/timing/v4 v4.1.1 h1:/Fte/3ChyO21ucWsrjTT/iaHz6h9elzOiw7zp/4Hh18=
+github.com/thinkgos/timing/v4 v4.1.1/go.mod h1:UJHH/waV/JvqmHbK8phLp9w2EUgRVN6oDAlr8k+WAZY=

@@ -200,7 +200,7 @@ func (sf *Client) procRequest(req *Request) {
 		}
 
 		// FIFO read
-		//case modbus.FuncCodeReadFIFOQueue:
+		// case modbus.FuncCodeReadFIFOQueue:
 		//	_, err = sf.ReadFIFOQueue(req.SlaveID, req.Address)
 		//	if err != nil {
 		//		req.errCnt++

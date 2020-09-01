@@ -26,7 +26,7 @@ func (NopProc) ProcReadInputRegisters(byte, uint16, uint16, []byte) {}
 
 // ProcResult implement interface Handler
 func (NopProc) ProcResult(error, *Result) {
-	//log.Printf("Tx=%d,Err=%d,SlaveID=%d,FC=%d,Address=%d,Quantity=%d,SR=%dms",
+	// log.Printf("Tx=%d,Err=%d,SlaveID=%d,FC=%d,Address=%d,Quantity=%d,SR=%dms",
 	//	result.TxCnt, result.ErrCnt, result.SlaveID, result.FuncCode,
 	//	result.Address, result.Quantity, result.ScanRate/time.Millisecond)
 }
